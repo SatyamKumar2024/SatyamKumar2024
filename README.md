@@ -1,4 +1,5 @@
-## Hi there 👋
+welcome in SK world
+i am satyam kumar
 
 <!--
 **SatyamKumar2024/SatyamKumar2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
