@@ -1,7 +1,8 @@
 **welcome in SK world**      
     i am satyam kumar 
 
-i am Btech first year student                [Satyam Kumar.pdf](https://github.com/user-attachments/files/16417081/Satyam.Kumar.pdf)
+i am Btech first year student                        [Satyam Kumar.pdf](https://github.com/user-attachments/files/16417081/Satyam.Kumar.pdf)
+![certificate 20240729-232600_Drive](https://github.com/user-attachments/assets/0d5f0e94-f897-4443-abc5-c8ebdee7e1ef)
 
 <!--
 **SatyamKumar2024/SatyamKumar2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
